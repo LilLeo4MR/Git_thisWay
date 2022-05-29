@@ -1,13 +1,5 @@
 hello git let's go!!
 
 hello git let's go!!
-hello git let's go!!
-hello git let's go!!
-hello git let's go!!
-hello git let's go!!
-hello git let's go!!
-hello git let's go!!
-hello git let's go!!
-hello git let's go!!
-
 actually this is the last change！！ you know!
+new design in branch hot_fix!
